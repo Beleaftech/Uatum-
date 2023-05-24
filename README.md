@@ -1,7 +1,16 @@
 # Uatuma
 Projeto Integrado 2023
 # Integrantes da equipe
-[Andrey Souza Ranieri](https://github.com/andreysrx), [Cássio Lima Cavalcante](https://github.com/CassioCavs), [Cauã Guerreiro Britto Mendes], [Douglas Gobitsch de Almeida Mello].
+[Andrey Souza Ranieri](https://github.com/andreysrx), [Cássio Lima Cavalcante](https://github.com/CassioCavs), [Cauã Guerreiro Britto Mendes](https://github.com/Beleaftech/Uatuma/blob/main/codigouatuma.cpp), [Douglas Gobitsch de Almeida Mello].
+
+
+<p float="center">
+
+ <img src="https://cdn.discordapp.com/attachments/945453757007818843/1111062277144191046/beleaf_people.jpg" height="500" width="500" />
+
+</p>
+
+
 # Uatuma - Sistema de hidroponia automatizada
 
 ## Resumo
