@@ -25,5 +25,10 @@ Implementando a hidroponia automatizada, uma técnica de cultivo sem solo que of
 
 O sistema é composto por um arduino, controlado pelo sensor de nível d'água e bateria 9 volts, visando o baixo custo.
 
+## Funcionamento na pratica
+Aqui está um video mostrando exatamente como funciona o produto.
+</br>
+[Veja o video](https://youtu.be/dx569UWe9xk&ab)
+
 ### Código
 [codigouatuma.cpp](https://github.com/Beleaftech/Uatuma/blob/main/codigouatuma.cpp)
