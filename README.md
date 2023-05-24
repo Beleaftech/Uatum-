@@ -1,0 +1,19 @@
+# Uatuma
+Projeto Integrado 2023
+# Integrantes da equipe
+Andrey Souza Ranieri, Cássio Lima Cavalcante, Cauã Guerreiro Britto Mendes, Douglas Gobitsch de Almeida Mello.
+# Uatuma - Sistema de hidroponia automatizada
+
+## Resumo
+O uatuma é um projeto dos alunos da EC3 desenvolvido para auxiliar a associação MMIB (Movimento das mulheres das Ilhas de Belém, melhorando o plantio e a nutrição das hortaliças.
+### Problema
+A qualidade e tratamento do solo, afeta a produção de hortaliças, a qual é uma importante fonte de renda para a população local.
+
+### Solução
+Implementando a hidroponia automatizada, uma técnica de cultivo sem solo que oferece benefícios como maior qualidade dos produtos, menor risco de contaminação e maior produtividade, sem trabalho braçal.
+
+## Detalhes do projeto
+
+O sistema é composto por um arduino, controlado pelo sensor de nível d'água e bateria 9 volts, visando o baixo custo.
+
+### Código
