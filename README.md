@@ -1,7 +1,7 @@
 # Uatuma
 Projeto Integrado 2023
 # Integrantes da equipe
-Andrey Souza Ranieri, Cássio Lima Cavalcante, Cauã Guerreiro Britto Mendes, Douglas Gobitsch de Almeida Mello.
+[Andrey Souza Ranieri](https://github.com/andreysrx), [Cássio Lima Cavalcante](https://github.com/CassioCavs), [Cauã Guerreiro Britto Mendes], [Douglas Gobitsch de Almeida Mello].
 # Uatuma - Sistema de hidroponia automatizada
 
 ## Resumo
@@ -17,3 +17,4 @@ Implementando a hidroponia automatizada, uma técnica de cultivo sem solo que of
 O sistema é composto por um arduino, controlado pelo sensor de nível d'água e bateria 9 volts, visando o baixo custo.
 
 ### Código
+[codigouatuma.cpp](https://github.com/Beleaftech/Uatuma/blob/main/codigouatuma.cpp)
